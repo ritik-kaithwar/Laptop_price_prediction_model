@@ -7,6 +7,7 @@ This is a capstone project built as part of a Data Science certification course.
 
 
 **Dataset Overview**
+
 The dataset includes features such as:
 - Company (Brand)
 - TypeName (Type of Laptop)
@@ -21,6 +22,7 @@ The dataset includes features such as:
 
 
 **Tools & Technologies Used**
+
 - Python
 - Scikit-learn
 - Pandas
@@ -29,6 +31,7 @@ The dataset includes features such as:
 
 
 **Machine Learning Approach**
+
 - Data Cleaning & Feature Engineering
   - Extracted key features from CPU, GPU, and Memory columns.
   - Converted RAM and storage to numerical values.
@@ -43,6 +46,7 @@ The dataset includes features such as:
 
 
 **Final Model Performance**
+
 - Best Model: Gradient Boosting Regressor
 - R² Score: ~0.78
 - Features Importance: CPU brand, SSD size, RAM, and GPU brand were among the top predictors of laptop price.
